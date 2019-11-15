@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 个人博客主页
 
 You can use the [editor on GitHub](https://github.com/MoXi-kj/MoXi-kj/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
